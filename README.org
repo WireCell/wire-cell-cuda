@@ -3,7 +3,7 @@
 This package is a mostly empty place holder for now.  In the future it
 may provide Wire-Cell Toolkit components that depend on CUDA.
 
-For now, it tests the Wire-Cell build system to *optimally* work with CUDA.
+For now, it tests the Wire-Cell build system to *optionally* work with CUDA.
 
 A minimal test build with CUDA goes something like:
 
