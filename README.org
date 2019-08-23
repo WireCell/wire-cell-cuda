@@ -1,0 +1,3 @@
+#+title: Wire-Cell CUDA
+
+This package provides Wire-Cell Toolkit components that may depend on CUDA.
